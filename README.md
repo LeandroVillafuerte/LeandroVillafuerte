@@ -1,16 +1,38 @@
 <img src="./img/LeandroBackground.png">
 
-<!--
-**LeandroVillafuerte/LeandroVillafuerte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+ Full Stack Developer 
+</h2>
 
-Here are some ideas to get you started:
+<p>
+¡Hola! 👋 Mi nombre es Leandro Villafuerte.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy Ingeniero Industrial y Full Stack Developer.
+
+Me fascina la idea de crear, de brindar soluciones allí donde se necesite. Busco aplicar estas pasiones en el desarrollo web donde veo una gran posibilidad de emplear mi creatividad y mi capacidad de resolver problemas.
+</p>
+
+## ✨Skills✨
+<p>
+<img width="10%" src="./img/logos/Git.png">
+<img width="10%" src="./img/logos/NodeJs.png">
+<img width="10%" src="./img/logos/PostgreSQL.png">
+<img width="10%" src="./img/logos/python.png">
+<img width="10%" src="./img/logos/React.png">
+<img width="10%" src="./img/logos/Redux.png">
+<img width="10%" src="./img/logos/sequelize.png">
+<img width="10%" src="./img/logos/javascript.png">
+</p>
+
+## ✨Projects✨
+<a href="https://github.com/LeandroVillafuerte/videogames-project">Videogames App</a>
+<p>
+<img width="40%" src="./img/videogames/landing_page.png">
+<img width="40%" src="./img/videogames/game_detail.png">
+<img width="40%" src="./img/videogames/home.png">
+<img width="40%" src="./img/videogames/add_form.png">
+</p>
+
+## 📫 Contacto
+<a href="https://www.linkedin.com/in/leandrovillafuerte/">
+<img width="5%"src="./img/linkedin.png">
