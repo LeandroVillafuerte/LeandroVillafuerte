@@ -16,7 +16,7 @@ Me fascina la idea de crear, de brindar soluciones allí donde se necesite. Busc
 <p>
 <img width="10%" src="./img/logos/Git.png">
 <img width="10%" src="./img/logos/NodeJs.png">
-<img width="10%" src="./img/logos/PostgreSQL.png">
+<img width="10%" src="./img/logos/postgreSQL.png">
 <img width="10%" src="./img/logos/python.png">
 <img width="10%" src="./img/logos/React.png">
 <img width="10%" src="./img/logos/Redux.png">
@@ -27,12 +27,13 @@ Me fascina la idea de crear, de brindar soluciones allí donde se necesite. Busc
 ## ✨Projects✨
 <a href="https://github.com/LeandroVillafuerte/videogames-project">Videogames App</a>
 <p>
-<img width="40%" src="./img/videogames/landing_page.png">
-<img width="40%" src="./img/videogames/game_detail.png">
-<img width="40%" src="./img/videogames/home.png">
-<img width="40%" src="./img/videogames/add_form.png">
+<img width="40%" src="./img/videogames/landing_page.PNG">
+<img width="40%" src="./img/videogames/game_detail.PNG">
+<img width="40%" src="./img/videogames/home.PNG">
+<img width="40%" src="./img/videogames/add_form.PNG">
 </p>
 
 ## 📫 Contacto
 <a href="https://www.linkedin.com/in/leandrovillafuerte/">
-<img width="5%"src="./img/linkedin.png">
+<img width="5%" src="./img/linkedin.png">
+</a>
