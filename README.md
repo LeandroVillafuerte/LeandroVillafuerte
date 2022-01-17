@@ -27,10 +27,10 @@ Me fascina la idea de crear, de brindar soluciones allí donde se necesite. Busc
 ## ✨Projects✨
 <a href="https://github.com/LeandroVillafuerte/videogames-project">Videogames App</a>
 <p>
-<img width="40%" src="./img/videogames/landing_page.PNG">
-<img width="40%" src="./img/videogames/game_detail.PNG">
-<img width="40%" src="./img/videogames/home.PNG">
-<img width="40%" src="./img/videogames/add_form.PNG">
+<img width="45%" src="./img/videogames/landing_page.PNG">
+<img width="45%" src="./img/videogames/game_detail.PNG">
+<img width="45%" src="./img/videogames/home.PNG">
+<img width="45%" src="./img/videogames/add_form.PNG">
 </p>
 
 <span>🌎GAIA Project🌍</span>
@@ -41,10 +41,10 @@ Me fascina la idea de crear, de brindar soluciones allí donde se necesite. Busc
 </p>
 
 <p>
-<img width="40%" src="./img/GAIA/Chat.PNG">
-<img width="40%" src="./img/GAIA/Classroom.PNG">
-<img width="40%" src="./img/GAIA/Publicaciones.PNG">
-<img width="40%" src="./img/GAIA/Tareas.PNG">
+<img width="45%" src="./img/GAIA/Chat.PNG">
+<img width="45%" src="./img/GAIA/Classroom.PNG">
+<img width="45%" src="./img/GAIA/Publicaciones.PNG">
+<img width="45%" src="./img/GAIA/Tareas.PNG">
 </p>
 
 
