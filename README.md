@@ -33,6 +33,21 @@ Me fascina la idea de crear, de brindar soluciones allí donde se necesite. Busc
 <img width="40%" src="./img/videogames/add_form.PNG">
 </p>
 
+<span>🌎GAIA Project🌍</span>
+<p>
+<a href="https://github.com/JRS-Developer/pf-client">📚Client📚</a>
+<a href="https://github.com/JRS-Developer/pf-server">📚Server📚</a>
+<a href="https://github.com/JRS-Developer/pf-chat">📚Chat📚</a>
+</p>
+
+<p>
+<img width="40%" src="./img/GAIA/Chat.PNG">
+<img width="40%" src="./img/GAIA/Classroom.PNG">
+<img width="40%" src="./img/GAIA/Publicaciones.PNG">
+<img width="40%" src="./img/GAIA/Tareas.PNG">
+</p>
+
+
 ## 📫 Contacto
 <a href="https://www.linkedin.com/in/leandrovillafuerte/">
 <img width="5%" src="./img/linkedin.png">
