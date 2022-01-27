@@ -25,7 +25,8 @@ Me fascina la idea de crear, de brindar soluciones allí donde se necesite. Busc
 </p>
 
 ## ✨Projects✨
-<a href="https://github.com/LeandroVillafuerte/videogames-project">Videogames App</a>
+<a href="https://github.com/LeandroVillafuerte/videogames-project">📚📚Videogames App📚</a>
+<br/>
 <a href="https://www.linkedin.com/in/leandrovillafuerte/">Visit site</a>
 
 <p>
